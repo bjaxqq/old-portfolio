@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Brooks Alexander Jackson"
+title: "Brooks Jackson"
 title_separator: "-"
-name: &name "Your Name"
+name: &name "Brooks Alexander Jackson"
 description: &description "personal description"
 url: https://bjaxqq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository: "bjaxqq/bjaxqq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "pfpProfessional.png"
   name: "Brooks Jackson"
   pronouns: "he/him"
   bio: "CS @ Quinnipiac University, Medicus"
@@ -190,19 +190,19 @@ kramdown:
   enable_coderay: false
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
+#  publications:
+#    output: true
+#    permalink: /:collection/:path/
+#  portfolio:
+#   output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
