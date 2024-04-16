@@ -21,9 +21,9 @@ repository: "bjaxqq/bjaxqq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "images/pfpProfessional.jpeg"
+  avatar: "images/pfp.png"
   name: "Brooks Jackson"
-  pronouns: "he/him"
+  pronouns: # "he/him"
   bio: "CS @ Quinnipiac University, Medicus"
   location: "Greater Boston Area, MA"
   employer: "Quinnipiac University"
