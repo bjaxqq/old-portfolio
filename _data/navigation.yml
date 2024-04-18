@@ -25,11 +25,14 @@ main:
   - title: "Experience"
     url: \#experience
 
+  - title: "Coursework"
+    url: \#coursework
+
   - title: "Projects"
     url: \#projects
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Blog"
+    url: /blog/
 
   - title: "CV"
     url: /files/resume.pdf
