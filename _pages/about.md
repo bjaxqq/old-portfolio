@@ -38,20 +38,25 @@ Helped with front and back-end development to test and fix bugs in the code. Add
 ### Fall 2023
 
 - [GDD140](https://github.com/bjaxqq/GDD140) - Creativity and Computation
-- [SER225](https://github.com/bjaxqq/SER225) - Intro to Software Development
 
 ### Spring 2024
 
 - [CSC210](https://github.com/bjaxqq/CSC210) - Computer Architecture and Organization
-- [GDD200](https://github.com/bjaxqq/GDD200) - Intro to Game Development 
+- [GDD200](https://github.com/bjaxqq/GDD200) - Intro to Game Development
 - [GDD316](https://github.com/bjaxqq/GDD316) - Advanced Game Development Topics
 - [SER210](https://github.com/bjaxqq/SER210) - Software Engineering Design and Development
+
+### Fall 2024
+
+- [AR271](https://github.com/bjaxqq/AR271) - AI and Art
+- [CSC105](https://github.com/bjaxqq/CSC105) - Computing: Multidiscipline Approach
+- [SER225](https://github.com/bjaxqq/SER225) - Intro to Software Development
 
 ## Projects
 
 The full list of my projects and coursework can be found on my [GitHub](https://github.com/bjaxqq).
 
-### [[Apr. 2024] Quinnipiac Tracker](https://github.com/bajackson1/QuinnipiacTracker)
+### [[May. 2024] Quinnipiac Tracker](https://github.com/bajackson1/QuinnipiacTracker)
 
 > Kotlin, SQLite, Android Studio, Scrum/Agile Cycles
 
