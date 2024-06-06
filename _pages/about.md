@@ -11,7 +11,7 @@ Welcome! My name is Brooks, a computer science student at Quinnipiac University 
 
 ## Experience
 
-### (UPCOMING) [Summer 2024] Intern @ [Medicus](https://medicushcs.com/)
+### [Summer 2024] Intern @ [Medicus](https://medicushcs.com/)
 
 ### [Fall 2023] Sponsorship Coordinator @ [Quinnipiac Computing Club](https://www.linkedin.com/company/quinnipiac-computing-club/)
 
