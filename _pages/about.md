@@ -62,7 +62,7 @@ The full list of my projects and coursework can be found on my [GitHub](https://
 
 An Android app for information and location journaling at Quinnipiac University. Used to mark buildings the user has visited and provides information about each one.
 
-### [[Dec. 2024] Quinnipiac: A Campus Quest](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art)
+### [[Dec. 2023] Quinnipiac: A Campus Quest](https://a-r-t.github.io/SER225-Project-Website/semesters/fall2023/teams/art)
 
 > Java, Scrum/Agile Cycles
 
